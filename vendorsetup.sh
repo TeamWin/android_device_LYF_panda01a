@@ -1,0 +1,2 @@
+add_lunch_combo omni_panda01a-eng
+add_lunch_combo omni_panda01a-userdebug
