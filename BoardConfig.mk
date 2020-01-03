@@ -68,3 +68,4 @@ TARGET_KEYMASTER_WAIT_FOR_QSEE := true
 
 # Debug flags
 TWRP_INCLUDE_LOGCAT := true
+PB_TORCH_PATH := "/sys/devices/soc.0/qpnp-flash-led-24/leds/led:torch_0"
