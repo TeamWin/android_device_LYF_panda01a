@@ -11,6 +11,9 @@ PRODUCT_PACKAGES += \
 	charger_res_images \
 	charger
 
+PRODUCT_COPY_FILES += \
+    device/LYF/panda01a/dt.img:dt.img
+
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := panda01a
 PRODUCT_NAME := omni_panda01a
